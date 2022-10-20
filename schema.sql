@@ -6,3 +6,5 @@ create table usernames (
     primary key (username),
     unique index username_index (username asc)
 );
+
+insert into usernames (username) values ('Orly_repudiative_59937');
