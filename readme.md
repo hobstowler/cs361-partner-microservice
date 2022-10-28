@@ -2,6 +2,8 @@
 
 Base URL: https://cs361-towlerj-microservice.herokuapp.com
 
+This random username microservice is deployed to Heroku! You will need to make HTTP requests to send and receive data from the microservice.
+
 ## Requesting Data
 
 ### GET /random
