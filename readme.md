@@ -85,3 +85,9 @@ Status: 500 Internal Server Error
 
 ### GET /random
 ![img.png](img.png)
+
+### GET /username?q=aardvark
+![img_1.png](img_1.png)
+
+### POST /username
+![img_2.png](img_2.png)
