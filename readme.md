@@ -24,6 +24,10 @@ None
 
 https://cs361-towlerj-microservice.herokuapp.com/username
 
+#### Headers
+
+Content-type: application/json
+
 #### Request Body Example
 
 ```http request
